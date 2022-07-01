@@ -1,0 +1,8 @@
+struct {
+	int a, b;
+	char c, d;
+	double[10] e, a;
+} record;
+
+void main() {
+}

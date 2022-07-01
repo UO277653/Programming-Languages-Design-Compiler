@@ -1,0 +1,23 @@
+boolean g(boolean a){
+    return 3;
+}
+
+void main(){
+    boolean b1;
+    int a;
+
+    g(3);
+    a = g(true);
+    a = true;
+    b1 = 1;
+    b1 = 1 && true;
+    b1 = !a;
+    b1 = 3 > b1;
+    a = 3 > 2;
+    b1 = true > false;
+    while(1)
+        write 1;
+    if (0)
+        write 0;
+
+}
