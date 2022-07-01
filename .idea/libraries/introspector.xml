@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="introspector">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/src/introspector.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
